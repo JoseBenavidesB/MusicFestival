@@ -1,0 +1,43 @@
+{
+  "name": "festivalmusica",
+  "version": "1.0.0",
+  "description": "Aprendiendo Gulp y SASS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseBenavidesB/MusicFestival.git"
+  },
+  "keywords": [
+    "SASS",
+    "GULP",
+    "Web",
+    "Design"
+  ],
+  "author": "Jose Benavides Bolanos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseBenavidesB/MusicFestival/issues"
+  },
+  "homepage": "https://github.com/JoseBenavidesB/MusicFestival#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-dart-sass": "^1.0.2",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-postcss": "^9.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-terser-js": "^5.2.2",
+    "gulp-webp": "^4.0.1",
+    "postcss": "^8.2.8"
+  },
+  "dependencies": {
+    "gulp-notify": "^3.2.0",
+    "node-sass": "^5.0.0"
+  }
+}
