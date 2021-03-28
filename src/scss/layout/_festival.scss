@@ -1,6 +1,7 @@
 .sobre-festival{
     padding: $separacion 0;
     @include grid(2, $separacion);
+    align-items: center
 };
 
 .contenido-festival {
