@@ -1,5 +1,5 @@
 # MusicFestival
-This is a static web page
+This is a static web page about a *Festival Music*
 
 ## Used Technologies: **HTML, SASS, GULP, JAVASCRIPT**
 
