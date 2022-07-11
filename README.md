@@ -1,7 +1,7 @@
 # MusicFestival
 This is a static web page
 
-## Used Technologies: **HTML, CSS, GULP, JAVASCRIPT**
+## Used Technologies: **HTML, SASS, GULP, JAVASCRIPT**
 
 ## You can see the page in:
 https://festival-project.netlify.app
